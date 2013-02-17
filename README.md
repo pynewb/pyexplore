@@ -1,4 +1,4 @@
 pyexplore
 =========
 
-Explore python syntax and libraries
+Explore python syntax and libraries.
